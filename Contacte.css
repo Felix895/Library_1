@@ -1,0 +1,86 @@
+.contacte {
+    border: 1px solid rgb(213, 203, 203);
+    width: 800px;
+    height: 800px;
+    margin-left: 250px;
+    background: #FFFFFF;
+    box-shadow: black 2px 2px;
+    margin-top: 10px;
+}
+.klick {
+    font-size: 35px;
+    margin-left: 35px;
+    color: #22528B;
+    margin-top: 180px;
+}
+.nomer1 {
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.nomer2 {
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.nomer3 {
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.adres {
+    margin-left: 35px;
+    margin-top: 20px;
+    font-size: 20px;
+}  
+.logo {
+    height: 30px;
+    width: 30px;
+    margin-left: 120px;
+    border-radius: 100%;
+    background: rgb(94, 94, 244);
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.logo:hover{
+    background: rgb(170, 170, 250);
+}
+.logo2 {
+    height: 30px;
+    width: 30px;
+    margin-left: 120px;
+    border-radius: 100%;
+    background: rgb(94, 94, 244);
+    margin-top: -29px;
+    margin-left: 70px;
+}
+.logo2:hover{
+    background: rgb(170, 170, 250);
+}
+.logo3 {
+    height: 30px;
+    width: 30px;
+    margin-left: 120px;
+    border-radius: 100%;
+    background: rgb(94, 94, 244);
+    margin-top: -29px;
+    margin-left: 105px;
+}
+.logo3:hover{
+    background: rgb(170, 170, 250);
+}
+.logo4 {
+    height: 30px;
+    width: 30px;
+    margin-left: 120px;
+    border-radius: 100%;
+    background: rgb(94, 94, 244);
+    margin-top: -29px;
+    margin-left: 140px;
+}
+.logo4:hover{
+    background: rgb(170, 170, 250);
+}
+
+.footer{
+    margin-top: 380px;
+    margin-left: -360px;
+    width: 200vh;
+}

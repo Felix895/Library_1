@@ -1,0 +1,42 @@
+body{
+    position: relative;
+}
+
+.a1{
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(64, 64, 230);
+   
+}
+#a2{
+    margin-left: 30px;
+   
+}
+#a3{
+    margin-left: 100px;
+}
+#a4{
+    margin-left: 100px;
+}
+.search_header{
+  display: flex;
+text-decoration: none;
+   
+}
+
+footer{
+    display: inline-block;
+    margin-top: 240vh;
+    width: 1995px;
+    padding: 0;
+}
+.aaa1{
+    color: black;
+    text-decoration: none;
+    
+}
+.ppp1{
+    text-decoration: none;
+    
+}
